@@ -1,18 +1,1 @@
-# 차영범 자기소개서
-
-> I can't speak English... :(
-
-## 기본정보
-- 코딩사랑
-- 수학 잘합니다?
-- **게임을 제일 좋아합니다**
-- *술은 잘 못마십니다*
-- 낯을 많이 가립니다
-
-## 하고 싶은 말...
-사이좋게 지냅시다 ㅎㅎ
-
-## 추가사항
-> 배고프다
-> 
-> 밥주세요...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaRob&show_icons=true&theme=blue-green)
